@@ -1,0 +1,34 @@
+GÜNÜMÜZDEKİ VERİTABANI TÜRLERİ
+
+Bilgisayara girilen, bilgisayar tarafından saklanabilen ve işlenebilen herşeye veri denir.
+Veriler işlenerek bilgi haline gelirler.
+
+MS ACCESS - Microsoft Office içinde gelen sürümü
+MSSQL SERVER - MICROSOFT geliştirmektedir. Server=arkaplanda sürekli çalışmalıdır!
+MySQL SERVER - web tabanlı-açık kaynak kodlu
+ORACLE SERVER - java - SUN
+SQLİTE - açık kaynak-android
+PostgreSQL
+ADVANTAGE - Türk
+FOXPRO - eski bir vt. microsoft artık geliştirmemektedir
+
+VTYS(Veritabanı Yönetim Sistemi):
+bu programları kullanılarak veritabanları üzerinde işlemler yaparız. (ekleme,silme,güncelleme,kullanıcı işlemler vb.)
+
+MSSQL için SQL MANAGEMENT STUDIO
+MySQL için PHPMyAdmin
+
+
+
+tablo -> satır=kayıt
+tablo -> sütun=alan
+
+SQL(Structured Query Language)-Yapısal Sorgulama Dili (SELECT,INSERT INTO,DELETE,UPDATE SET gibi komutlar bulunur)
+
+
+veritürleri:
+string -> metinsel veriler
+integer,double,decimal,float -> sayısal
+
+
+
