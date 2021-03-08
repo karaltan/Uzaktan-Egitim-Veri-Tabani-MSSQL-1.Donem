@@ -1,0 +1,10 @@
+sorgu: veri tabanına bağlanıp, oradaki kayıtlar üstünde işlem yapmaktır
+
+kayıt ile değer farkı???
+
+işlemler:
+1-kayıt eklemek-insert into
+2-kayıt silmek-delete from
+3-kayıt/değer güncellemek-update set
+4-kayıt aramak/listelemek/filtrelemek-select
+

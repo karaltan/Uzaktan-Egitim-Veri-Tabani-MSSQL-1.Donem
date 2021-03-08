@@ -1,0 +1,2 @@
+CREATE DEFAULT
+def_tel as '05057664976'
