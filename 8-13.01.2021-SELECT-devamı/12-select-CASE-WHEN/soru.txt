@@ -1,0 +1,17 @@
+ortalamalarýna göre notlarýný veren programý yapýnýz.
+
+85-100		5
+70-84		4	
+gibi.....
+
+select ad,soyad,NOT=
+CASE
+	WHEN  ortalama BETWEEN 0 AND 49   THEN	'1'
+	WHEN  ortalama<60   THEN	'2'	
+	WHEN  ortalama<70   THEN	'3' 
+	WHEN  ortalama<85   THEN	'4'
+	WHEN  ortalama<=100 THEN	'5'	
+	ELSE   'HATA'
+END
+
+from ogrenciler
