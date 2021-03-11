@@ -1,0 +1,5 @@
+https://www.yazilimkodlama.com/sql-server-2/sql-sorgulari-ve-ornekleri/
+
+https://www.algoritmaornekleri.com/sql/sql-select-komutu-ve-ornekleri/
+
+https://www.sqlkodlari.com/01-sql-kullanimi.asp
