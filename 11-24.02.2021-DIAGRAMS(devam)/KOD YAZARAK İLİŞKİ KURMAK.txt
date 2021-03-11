@@ -1,0 +1,1 @@
+https://sqlserveregitimleri.com/sql-serverda-diyagram-kullanmadan-tablolar-arasinda-birebir-iliski-kurmak
